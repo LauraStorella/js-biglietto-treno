@@ -27,6 +27,18 @@ i {
   font-size: 50px;
 }
 
+.logo {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 15%;
+}
+
+.logo .rail {
+  font-style: italic;
+  font-weight: bold;
+}
+
 
 
 
